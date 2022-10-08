@@ -1,4 +1,4 @@
-貸出ID, DVD_ID,顧客ID,映画ID,貸出日時,タイトル,概要,公開年,レンタル代,カテゴリ名
+貸出ID,DVD_ID,顧客ID,映画ID,貸出日時,タイトル,概要,公開年,レンタル代,カテゴリ名
 361,6,587,1,2005-05-27 07:03:28,ACADEMY DINOSAUR,A Epic Drama of a Feminist And a Mad Scientist who must Battle a Teacher in The Canadian Rockies,2006,0.99,Documentary
 14624,4,344,1,2005-08-21 18:32:42,ACADEMY DINOSAUR,A Epic Drama of a Feminist And a Mad Scientist who must Battle a Teacher in The Canadian Rockies,2006,0.99,Documentary
 10883,4,301,1,2005-08-02 00:47:19,ACADEMY DINOSAUR,A Epic Drama of a Feminist And a Mad Scientist who must Battle a Teacher in The Canadian Rockies,2006,0.99,Documentary
